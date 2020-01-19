@@ -68,6 +68,41 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# m_city
-React base Web app with fire base database
->>>>>>> 765e13c555d5d8dd749dd17463bf47adbf5d1a27
+FootBall Match Web App
+-----------------------
+
+https://m-city-df233.firebaseapp.com/
+Demo  : <a href="https://m-city-df233.firebaseapp.com/">Demo</a>
+Dashboard : <a href="https://m-city-df233.firebaseapp.com/sign_in">Dashboard</a>
+userrname : francis@gmail.com
+password : password
+
+React based Web app with fire base database which i have created by following a tutorial
+
+Home Page
+----------
+
+![](images/home.png)
+
+
+Team Page
+---------
+
+![](images/team.png)
+
+
+Matches
+-------
+
+![](images/matches.png)
+
+Sign_in
+--------
+
+![](images/sign_in.png)
+
+Dashboard
+---------
+
+![](images/dashboard.png)
+
